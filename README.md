@@ -18,4 +18,4 @@ The app can then be run with:
 npm start
 ```
 
-If setup was successful, you should be able to view the application at http://localhost:3030/. Please note that if you have not run [the backend](https://github.com/mark-restrepo/nih-backend), you will get errors trying to search anything.
+If setup was successful, you should be able to view the application at http://localhost:3000/. Please note that if you have not run [the backend](https://github.com/mark-restrepo/nih-backend), you will get errors trying to search anything.
